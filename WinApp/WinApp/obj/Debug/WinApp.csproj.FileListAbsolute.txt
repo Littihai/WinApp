@@ -1,0 +1,8 @@
+D:\TSE_SEARCH\WinApp\WinApp\bin\Debug\WinApp.exe.config
+D:\TSE_SEARCH\WinApp\WinApp\obj\Debug\WinApp.csprojResolveAssemblyReference.cache
+D:\TSE_SEARCH\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\TSE_SEARCH\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.Cache
+D:\TSE_SEARCH\WinApp\WinApp\bin\Debug\WinApp.exe
+D:\TSE_SEARCH\WinApp\WinApp\bin\Debug\WinApp.pdb
+D:\TSE_SEARCH\WinApp\WinApp\obj\Debug\WinApp.exe
+D:\TSE_SEARCH\WinApp\WinApp\obj\Debug\WinApp.pdb
