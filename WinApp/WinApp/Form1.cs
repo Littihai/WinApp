@@ -14,7 +14,7 @@ namespace WinApp
             // ตั้งชื่อหน้าต่าง
             this.Text = "Run Advice";
 
-            // สร้างปุ่ม
+            // สร้างปุ่ม.
             Button btnRunMacro = new Button();
             btnRunMacro.Text = "Run Advice";
             btnRunMacro.Width = 190;
